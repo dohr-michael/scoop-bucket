@@ -6,14 +6,14 @@
             "bin": [
                 "golang-seed.exe"
             ],
-            "hash": "6971342ab28ae587a5b0ec51ec525fc017c9ab6bb7d570836eacf762cc2608f3"
+            "hash": "1998dfdc4d82624c74ba404e094483076d6add0a2e3b71d25550e2bf862a847a"
         },
         "64bit": {
             "url": "https://github.com/dohr-michael/golang-seed/releases/download/v0.0.1/golang-seed_0.0.1_Windows_x86_64.tar.gz",
             "bin": [
                 "golang-seed.exe"
             ],
-            "hash": "a6169b74feb8e7d33c6b4321139a8957412f62c7768b22d6ecf0cb606bb66eda"
+            "hash": "a1b6aee7a34552b93f2b39d2320de1ef13b1363095740fc3d79494aa7e7349a2"
         }
     },
     "homepage": "https://github.com/dohr-michael/golang-seed",
