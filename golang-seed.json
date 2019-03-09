@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "1.0.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dohr-michael/golang-seed/releases/download/v0.0.1/golang-seed_0.0.1_Windows_i386.tar.gz",
+            "url": "https://github.com/dohr-michael/golang-seed/releases/download/v1.0.0/golang-seed_1.0.0_Windows_i386.tar.gz",
             "bin": [
                 "golang-seed.exe"
             ],
-            "hash": "1998dfdc4d82624c74ba404e094483076d6add0a2e3b71d25550e2bf862a847a"
+            "hash": "e0db255996bdd0002be7be1a0da6650e299d3cc3082a67179a204fa874f635bf"
         },
         "64bit": {
-            "url": "https://github.com/dohr-michael/golang-seed/releases/download/v0.0.1/golang-seed_0.0.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/dohr-michael/golang-seed/releases/download/v1.0.0/golang-seed_1.0.0_Windows_x86_64.tar.gz",
             "bin": [
                 "golang-seed.exe"
             ],
-            "hash": "a1b6aee7a34552b93f2b39d2320de1ef13b1363095740fc3d79494aa7e7349a2"
+            "hash": "ae2c944111926cf1e4517ce7aa1d4be3ff2b77459133cb6bad18e2ea6f502b24"
         }
     },
     "homepage": "https://github.com/dohr-michael/golang-seed",
